@@ -1,8 +1,8 @@
 # Bibek Bhandari – Backend Developer 👋
-### Django | .NET | Oracle | MySQL
+### Django | .NET | Oracle | MySQL | PostgreSQL | MSSQL
 
 💻 **About Me:**  
-I am a backend developer from Nepal, passionate about building robust and scalable applications. I specialize in Django, .NET Core, and relational databases like Oracle and MySQL. I enjoy writing clean, efficient code and optimizing backend systems.
+I am a backend developer from Nepal, passionate about building robust and scalable applications. I specialize in Django, .NET Core, and relational databases like Oracle, MySQL, PostgreSQL, and MSSQL. I enjoy writing clean, efficient code and optimizing backend systems.
 
 🌱 Currently improving skills in **API development, cloud deployment, and database optimization**.
 
@@ -19,6 +19,8 @@ I am a backend developer from Nepal, passionate about building robust and scalab
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  
 
 **Tools & Technologies:**  
 - REST APIs, JWT Authentication  
@@ -35,8 +37,8 @@ I am a backend developer from Nepal, passionate about building robust and scalab
 - **Repo:** [mysiteDemo](https://github.com/bibekb12/mysiteDemo)  
 
 ### 2. **SQL_QUERY_DBA (Database Scripts)**  
-- **Description:** Collection of SQL scripts for Oracle & MySQL DBAs.  
-- **Tech:** SQL, PL/SQL  
+- **Description:** Collection of SQL scripts for Oracle, MySQL, PostgreSQL & MSSQL.  
+- **Tech:** SQL, PL/SQL, T-SQL  
 - **Repo:** [SQL_QUERY_DBA](https://github.com/bibekb12/SQL_QUERY_DBA)  
 
 ### 3. **srb (HTML Project)**  
@@ -54,5 +56,5 @@ I am a backend developer from Nepal, passionate about building robust and scalab
 flowchart TD
     A[Client / Frontend] -->|HTTP Requests| B[Backend Server]
     B --> C[Django / .NET Core API]
-    C --> D[(Oracle / MySQL Database)]
+    C --> D[(Oracle / MySQL / PostgreSQL / MSSQL Database)]
     D -->|SQL Queries| C
