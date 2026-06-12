@@ -1,14 +1,14 @@
 # 👨‍💻 Bibek Bhandari
-### **Senior Backend Engineer & Database Administrator (DBA)**
-> *Architecting scalable backend systems and optimizing mission-critical database environments.*
+### **Data Engineer & Database Administrator (DBA)**
+> *Architecting scalable database systems and optimizing mission-critical database environments.*
 
 ---
 
 ## 💫 About Me
-I am a results-driven **Backend Developer** and **DBA** based in Nepal. I specialize in bridging the gap between high-level application logic and low-level data optimization. My passion lies in building enterprise-grade APIs and ensuring that the data layer is robust, secure, and lightning-fast.
+I am a results-driven **Data Engineer** and **DBA** based in Nepal. I specialize in bridging the gap between high-level application logic and low-level data optimization. My passion lies in building enterprise-grade APIs and ensuring that the data layer is robust, secure, and lightning-fast.
 
-- 🔭 **Expertise:** Django, .NET Core, and Multi-Platform RDBMS.
-- 🌱 **Learning:** Cloud Infrastructure (AWS/Azure) & Distributed Systems.
+- 🔭 **Expertise:** Oracle, mysql, MSSQL, Postgres and Multi-Platform DBMS.
+- 🌱 **Learning:** Cloud Infrastructure (AWS/Azure), Google Console & Distributed Systems.
 - ⚡ **Goal:** Engineering systems where "Data meets Performance."
 
 ---
@@ -23,19 +23,17 @@ I am a results-driven **Backend Developer** and **DBA** based in Nepal. I specia
 | **Oracle** | Advanced | PL/SQL, Performance Tuning, RMAN |
 | **MSSQL** | Advanced | T-SQL, Stored Procedures, Indexing |
 | **PostgreSQL** | Proficient | JSONB, Query Optimization, VACUUM |
-| **MySQL** | Proficient | Schema Design, InnoDB Optimization |
+| **MySQL** | Advanced | Schema Design, InnoDB Optimization |
 
 ### ⚙️ Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🚀 Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-orange?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
 
 ---
 
@@ -71,10 +69,9 @@ A specialized backend prototype focusing on financial data processing and secure
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bibek-bhandari-81542b304)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bibekb12)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bibekb12)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@bibekbhandari.com.np)
 
 ---
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9444afa5-b128-4d71-8a96-5fed1c8465c4/deploy-status)](https://app.netlify.com/projects/gorgeous-donut-764e34/deploys)
 
