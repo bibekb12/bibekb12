@@ -1,11 +1,11 @@
 # 👨‍💻 Bibek Bhandari
-### **Data Engineer & Database Administrator (DBA)**
+### **Database Engineer**
 > *Architecting scalable database systems and optimizing mission-critical database environments.*
 
 ---
 
 ## 💫 About Me
-I am a results-driven **Data Engineer** and **DBA** based in Nepal. I specialize in bridging the gap between high-level application logic and low-level data optimization. My passion lies in building enterprise-grade APIs and ensuring that the data layer is robust, secure, and lightning-fast.
+I am a results-driven **Database Engineer** based in Nepal. I specialize in bridging the gap between high-level application logic and low-level data optimization. My passion lies in building enterprise-grade APIs and ensuring that the data layer is robust, secure, and lightning-fast.
 
 - 🔭 **Expertise:** Oracle, mysql, MSSQL, Postgres and Multi-Platform DBMS.
 - 🌱 **Learning:** Cloud Infrastructure (AWS/Azure), Google Console & Distributed Systems.
@@ -15,7 +15,7 @@ I am a results-driven **Data Engineer** and **DBA** based in Nepal. I specialize
 
 ## 🛠️ Technical Ecosystem
 
-### 🗄️ Database Administration & Engineering
+### 🗄️ Database Administrator and Engineering
 *The core of my technical expertise, focusing on high availability and performance.*
 
 | Platform | Expertise Level | Key Skills |
@@ -37,7 +37,7 @@ I am a results-driven **Data Engineer** and **DBA** based in Nepal. I specialize
 
 ---
 
-## 💎 DBA Specializations
+## Specializations
 *   **Query Optimization:** Reducing latency through advanced indexing and execution plan analysis.
 *   **Data Integrity:** Implementing complex triggers, constraints, and ACID-compliant transactions.
 *   **Migration & ETL:** Seamlessly moving data across heterogeneous database systems.
